@@ -1,0 +1,8 @@
+# Submission repository — track ONLY the Python scripts.
+# Ignore everything by default, then explicitly allow the scripts.
+*
+!.gitignore
+!README.md
+!feature_extraction.py
+!train_model.py
+!hyperparam_search.py
